@@ -1,1 +1,4 @@
 ---
+misconfigurations:
+  - id: AVD-GIT-0001
+  - id: AVD-GIT-0003
